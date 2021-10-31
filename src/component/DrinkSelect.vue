@@ -66,6 +66,7 @@ img {
     overflow-y: auto;
     border: 1px solid black;
     border-radius: 20px;
+    margin: 8px 0;
 
   }
   .not-select{
